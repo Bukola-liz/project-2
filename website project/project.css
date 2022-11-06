@@ -1,0 +1,76 @@
+.box-1 {
+    background-color: #f4ede4;
+    color :black;
+    font-weight: 500;
+    margin: 0;
+    padding: 20px;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.box-2 {
+padding: 10px 0;
+margin: auto;
+color: black;
+text-align: center;
+font-size: 14px;
+}
+/*.box-2 {
+    width: 30%;
+    margin: auto;
+    font-family: ;
+} 
+*/
+.logos ul li{
+    list-style: none;
+    display:inline-block;
+    margin : 0 30px;
+    
+    }
+ .logos{
+        text-align: center;
+    }
+
+.container {
+    width: 30%;
+    line-height: 1.6em;
+}
+.container-2 {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+
+
+
+/* beginning of the 
+video */
+
+
+ 
+
+
+
+/* not sure of this = its meant to be the hover link line
+.link ::after {
+    content: '';
+    height: 3px;
+    width: 0; 
+    background:#009688 ;  
+    position: absolute;
+    left: 0;
+    bottom: -10px; 
+    position: relative;
+    transition: 0.5s;
+}
+
+.link :hover::after {
+    width : 100% ;
+}
+*/
+
+/*.logos {
+    justify-content: space-between;
+
+}*/
